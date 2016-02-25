@@ -8,6 +8,7 @@ to alter their operation.
 
 Effects of this package:
 
+* zigbee factory tests will not test zigbee hardware or attempt to extract id
 * zigbee firmware will not be flashed
 * the zigbee gateway process will not start
 * the zigbee driver will start, but not access the hardware
